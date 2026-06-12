@@ -2,7 +2,7 @@
 
 # Hi, I'm Huhu 👋
 
-🎓 Master of Economics Candidate at Duke University
+🎓 Master of Economics Student at Duke University
 
 I work at the intersection of:
 
