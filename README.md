@@ -12,7 +12,6 @@ I work at the intersection of:
 - Data Science
 - Economics & Public Policy
 
----
 
 ## About Me
 
@@ -26,7 +25,6 @@ My interests include:
 - Financial Data Science
 - LLM Evaluation and RAG Systems
 
----
 
 ## Experience
 
@@ -44,7 +42,6 @@ Transfer Pricing Analyst Intern
 - Financial benchmarking
 - International tax and transfer pricing projects
 
----
 
 ## Featured Projects
 
@@ -58,21 +55,18 @@ Transfer Pricing Analyst Intern
 
 🔹 Solar Radiation Prediction
 
----
 
 ## Skills
 
 Python • SQL • Stata • Machine Learning • NLP • LLMs • RAG • Econometrics
 
----
 
 ## Publications
 
 - Digital Inclusive Finance and Export Resilience
 - CEO Abstract Thinking and Enterprise Innovation
 
----
 
 📍 Durham, NC
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on LinkedIn https://www.linkedin.com/in/yurou-liu-b546aa257/
